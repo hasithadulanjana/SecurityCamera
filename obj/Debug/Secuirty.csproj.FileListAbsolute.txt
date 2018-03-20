@@ -1,0 +1,16 @@
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\bin\Debug\Secuirty.exe.config
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\bin\Debug\Secuirty.exe
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\bin\Debug\Secuirty.pdb
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.csprojResolveAssemblyReference.cache
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\MainWindow.g.cs
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\App.g.cs
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty_MarkupCompile.cache
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty_MarkupCompile.lref
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\MainWindow.baml
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.g.resources
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.Properties.Resources.resources
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.csproj.GenerateResource.Cache
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.exe
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Secuirty.pdb
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Reveiw.g.cs
+C:\Users\LWA\Desktop\StudentProj\Secuirty\Secuirty\obj\Debug\Reveiw.baml
